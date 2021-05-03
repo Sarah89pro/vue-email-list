@@ -25,16 +25,7 @@ ul {
     color: #fcb045;
     margin: 8px 0;
 }
-  
-.list ul {
-    text-align: center;
-}
-  
-.list ul li {
-    color: #fff;
-    margin: 8px 0;
-}
-  
+
 .buttons {
     display: flex;
     justify-content: center;
@@ -56,4 +47,14 @@ ul {
 .buttons button:last-child {
     color: #833ab4;
     border: 1px solid #833ab4;
+}
+
+  
+.list ul {
+    text-align: center;
+}
+  
+.list ul li {
+    color: #fff;
+    margin: 8px 0;
 }
